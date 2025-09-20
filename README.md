@@ -1,4 +1,4 @@
-# CHAMAR-Shoe-Store
+# CHAMAR-Shoe-Store.
 A Php-Sql project for final year students. 
 
 ***************************************************************
