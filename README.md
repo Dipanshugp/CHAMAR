@@ -9,7 +9,7 @@ Login, Sign up System
 Admin Panel
 Online Transaction (Mainly PayPal)
 Manage Products, Orders, Messages
-View Transactions (From Admin)
+View Transactions (From Admin).
 
 Here, User has to Login/Sign Up to the site and search for the products they want.
 They can easily Purchase products online with help of Paypal accounts.
